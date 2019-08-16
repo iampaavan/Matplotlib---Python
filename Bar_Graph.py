@@ -31,3 +31,6 @@ plt.xticks(ticks=x_indexes, labels=ages_x)
 plt.tight_layout()
 plt.savefig('secondplot.png')
 plt.show()
+
+....
+....
